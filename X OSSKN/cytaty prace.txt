@@ -1,0 +1,63 @@
+POSZUKAC O EYETRACKINGU Z KONTURAMI 
+https://www.degruyter.com/document/doi/10.1515/9783110584998-006/html?lang=en
+HISTOGRAM ADAPTACYJNA BINARYZACJA NA PODSTAWIE MINIMÓW I MAKSIMÓW HISTOGRAMU
+
+
+
+
+http://www.faqs.org/faqs/ai-faq/neural-nets/part3/section-9.html
+https://www.heatonresearch.com/2017/06/01/hidden-layers.html
+https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1189626
+http://dstath.users.uth.gr/papers/IJRS2009_Stathakis.pdf
+https://www.researchgate.net/publication/220372253_Effects_of_the_number_of_hidden_nodes_used_in_a_structured-based_neural_network_on_the_reliability_of_image_classification
+https://www.researchgate.net/publication/370060199_Deep_learning_modelling_techniques_current_progress_applications_advantages_and_challenges
+
+Introduction to neural networks with Java jeff heaton:
+Meanwhile, there are many rule-of-thumb methods for determining the Number of Nodes in Hidden Layers. According to Jeff Heaton[3], the rule of thumbs are:
+
+    The number of hidden neurons should be between the size of the input layer and the size of the output layer
+    The number of hidden neurons should be 2/3 the size of the input layer, plus the size of the output layer
+    The number of hidden neurons should be less than twice the size of the input layer
+
+
+dobre wykresy
+https://machinelearningmastery.com/improve-deep-learning-performance/
+
+https://ijai.iaescore.com/index.php/IJAI/article/viewFile/20718/13238
+
+jak projektowac siec neuronowa
+https://arxiv.org/pdf/1606.02228v2
+
+file:///C:/Users/Equer/Downloads/PUBLISHEDCOPY.pdf
+https://www.researchgate.net/publication/362279351_A_Comparative_Study_on_Regularization_Techniques_in_Convolutional_Neural_Networks
+
+rozne architektury cnn
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9055424
+
+algorytm
+https://www.hci.uni-tuebingen.de/assets/pdf/publications/WTCKWE092015.pdf
+
+pupilnet
+https://arxiv.org/abs/1601.04902
+
+jakas architektura prosta
+file:///C:/Users/Equer/Downloads/CNN-Based_Pupil_Center_Detection_for_Wearable_Gaze.pdf
+
+rmse
+https://statisticsbyjim.com/regression/root-mean-square-error-rmse/
+
+
+wzor rmse
+https://www.geeksforgeeks.org/root-mean-square-error-in-r-programming/
+
+pupil cnn
+https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197624X00032/1-s2.0-S0952197624003932/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIC2GMDO3sLFQF9LVKCAPfpfJkSVUTU1kaIjl8Tb9vqQbAiBLHNJcJq2RVB28Ssc%2FQl9qO0fSKLw7WkG6sAToGuPn1iq8BQiV%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMutuCfWBBjjGkI9weKpAFDxoa8F2qLULk9BAuHE2SwgSUTyeGQvqgk%2FsA%2FvmrqWo16N3o9dCYZ5nYxAtQYFwacGCgVkp8BBeGaNz2EOnIMvbIZArZSIw%2FufhDtRQXN7hV7pj5sqr0sKBsJFsmQVx6IZwAvcW6qooUcayT6w4Wh28INCWl1uswsssM4NrZuUrvGpGy%2BUfaE4TfchLKECjuLePgjAEk8kADz2jmsWihNQP2X5OstwcvoS4BX2q1KiGdqJ9MppZKBwnhFzP%2B46LgPbgPXiqwuyxDrvLb6Rhab%2BZeT3upvhSrSVZJmNp1TaQs9mlTKG7xXFBPA6ZnlZhLR50dq3e%2BsiljK%2FkKPhjyNmRBVgqtRhPz%2BMzyPyMvVdt1XSVLUsLMmVJl%2FDQv6Gjh2AW5oppO7oiIKstd7TEEI%2FBC%2Bzpt5RKIck4a0oo908ikWwkuyv4pNXJEqxPkCAl13%2BzZLN7j4PVVHO2hnorqxau%2FFoKlwv6svGRjASTM4hQtUGq1GenjEqFPFR2oboPWy64KYCwDzhBY5A0jYMfoQZQ7S7H0WJ6CTqMnGQ%2ByszXVkJSGSJPzjbVNr6GPXLx16JXSMVfcjQV9CBoBhglv%2FtZxHooSoTEoA3soC63W0kn7immrWfhiv2R04tV3IIPaspr3saWgHt9vdcvmOpLLEzoAPTkE%2FMhSp0KW8r3i4Bh7%2FG6KD6UZDGy1HmBMJ667c57tCEFmKgdCfzoIQsXuFfF6S1GZifCZ4YQdKnI6n0IS1uzO5IxVIwWgeiIJmPEtOl%2BljMTHOVaPmb5K%2B9zWg0XZtHktifBV55uxxXUbrXkg5w5z6RJ%2BtYa%2F%2BtIkW8gKVKuTO2Z46hR4qDwdNxGUSFNRygN7cz94gsZIkBsV5PAwo86tugY6sgEh8BVdyux2RKNC%2BCsG7jgTXOn3MLt3LDdumbjSwa9IUVBR3TP4dvi1ftMS%2FUq%2Fw8eAsMfsWCsUx3CwN0SLf1EaeP8jkB3GGPpAxYYseVoqR3tqIvrLopVIavUe%2FWqO2spnbc4Gdx2NaknBOPeyIgEXyi%2BJwB4RgOJQloYqG7190S%2FhhdXyBXKQfVE%2FopDnKsY9irJZbGo6xxbt5JErOWBMWTMhPy%2BHgaBWD9eCbEldJDRb&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241130T203414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5CMPYQE6%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fc89d967e1b65a7943bbc7252c64d6ab39cb9591e91f6f274b992cad86c84e25&hash=6f86745ad78d21451a6e28a75ab6925415eccb1a221d8baa6fe71b5a7139ac99&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0952197624003932&tid=spdf-3fb04917-6301-4777-8e44-d326a9f6c100&sid=12cbda8d1cf892420e393db3c975fba7f3e3gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1303590304055b0708&rr=8ead9df9eaf1b32d&cc=pl
+
+
+eye tracker:
+https://www.researchgate.net/publication/333634327_Pupil_Detection_Methods_for_Eye_Tracking
+https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417423X00220/1-s2.0-S0957417423018183/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD0BVhI%2ByC9OTfojmvHepKV3QnEXrFYUVU4%2FRr9dhfeuAIhAKPSqtPr%2FMg3vaeRwukpkaoNUzxmhWk8%2B3Pc2g8EBBdrKrwFCJT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgyM3cQJSUSRyY5pNu8qkAXNGSAlIx39HVdst1PC166h23UXk5yRXlYj%2B8eRqPd%2F9XL96x01uWHlWEtdJXn6rhx%2Fu7fq6UjOjlwM4PgwiCiNCCZfqgtUR2YKNEaaE2UhK7EHBY9Df5rsvt2OAPPNKeT0fZCyyN9bnSabGYUrd69kd8yLE9xWr8FWS5TrMM7Iy8rp2knIEk3LQg8nCS%2Bi9%2FyuwzYFoBqdcwjoTbXMFjyjEsAyaby0vL%2B73G8G%2FQY3Bxx1QMsm2O9KyR1XY9CRAyxcz8m453I2%2FqNww%2Bc03NRwU90Dskn%2FzUg%2Fk6KH77u3JDIvFPY9OstrLHYBJgCpl3SX8tQqlEx5klqxuWyUGKu50SU06qkonxSoZqwm0yLtxo3M%2BBYYN1x1rN65t29KfC10ColXC5QV%2Bsh0TTWrBFS2zA2tNE0K6X25DwV%2FUPY2boVvf%2BK3rbxLXo6bF4BnkO6iTHvbDAhMpNQmjHSHbTs4by3gKwCVq7VM8g%2FmKyXoeSoRFFPtnKJ8tMJ79Ek%2F6X61w369hlmEzquGPYExDZtgOlNAdnfHMmqhpMWp%2Br3gZFhx1TkZnmE2xBb4fevVV%2B0aWl3OxO8x%2F%2BvImnE4%2FMfdsnrnjy%2FSH0BrIV1Zai316ndpsAEANtbvl855IIffIkUrnzIfHa54OH1UsFZKk%2B16qt7GRRkG%2Fv6vqE43XDfadPobKJAy4Fc41fiJHWQ1pHkQtj%2Be6anWftaluHhWZ8bItr%2Fj9SBmYlkvBn4p%2Bn6DQ19I2aMDmC73H%2FsxWk4gC15jWP8GETd%2BIKobqlZAGa6vZ%2F7auwI2s1OtJU3q33bPgtUcEs3WiuWAOCyQG%2FSMCv9ckGW17Qnli0UjR3CT5Hw6igqDs%2BZUJ4e8xmJXWXDX9DC7t626BjqwAVcxU%2B7qYjT8G6GdpgXMiK1n3MSvD7UvjHuUL%2Bmuekn3FV7AK51dpMTs7lpBzx4UfEj3szczwQVgiAp9Xza2g17h9BzOStb4qdGvRiFqIYkH5AMfb57JRKwtjtVZTFmu50D8UZdOvI2O0WNmrxJksDmzD4%2BrWz0L6rM1tvZQlyeM1V7q%2FDXinxGPe7oNLapBsRX74wusrgEG%2B5X1x0rU7blBUHTKVUPy1aVRoonYmsTO&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241130T185724Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2MRPJINB%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2a2a91e2c8bb9d05451207b749ee8ca78d2b1380efcecca04e196f4fa470fea0&hash=be843f030ae1d3eaac4b4fb84ae27391ab04934648e806ac234d1d9a692e8dbc&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417423018183&tid=spdf-0168b3f9-f671-4732-91c5-4b8bc5a103d1&sid=12cbda8d1cf892420e393db3c975fba7f3e3gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=13035903040553535f&rr=8ead101a4a2bb32d&cc=pl
+
+zaklocenia:
+https://link.springer.com/content/pdf/10.1007/s00530-021-00806-5.pdf
